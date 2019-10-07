@@ -1,0 +1,25 @@
+_repo: History-of-the-Peninsular-War-Volume-6-of-6_60391
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Southey, Robert
+    birthdate: 1774
+    deathdate: 1843
+    gutenberg_agent_id: '488'
+    url: http://www.gutenberg.org/2009/agents/488
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Southey
+description: ''
+gutenberg_issued: '2019-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Peninsular War, 1807-1814'
+- GITenberg
+title: History of the Peninsular War, Volume 6 (of 6)
+url: http://www.gutenberg.org/ebooks/60391
